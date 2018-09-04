@@ -1,0 +1,5 @@
+
+Hej!
+Spelet är en enkel version av den vanlig Breakout spelet.
+Main metod ligger på filen "Breakout.cpp". 
+Man får spela bara med tangetbordet (även för att stänga fönstret) och spelkeys är: space för att börja spelet, left- och rigth pilar för att röra paddle.
